@@ -54,7 +54,7 @@
 ### Building from source
 
 ```bash
-git clone https://github.com/yourname/ultraenchantments.git
+git clone https://github.com/kibagames/ultraEnchantments.git
 cd ultraenchantments/plugins/mythic-enchantments
 mvn clean package -DskipTests
 # Output: target/UltraEnchantments-1.0.0.jar
