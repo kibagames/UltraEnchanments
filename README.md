@@ -274,3 +274,38 @@ Built with:
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) — High-performance JDBC connection pool
 - [Vault](https://github.com/MilkBowl/Vault) — Economy abstraction layer
 - [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) — Placeholder framework
+
+---
+
+## 👨‍💻 Maintainer
+
+**UltraEnchantments** is designed, developed, and maintained by **KIBA OFFICIAL**.
+
+Dedicated to creating innovative Minecraft experiences through custom plugins, advanced gameplay mechanics, and high-performance server solutions.
+
+---
+
+## ⭐ Support the Project
+
+If you enjoy UltraEnchantments, consider:
+
+- ⭐ Starring this repository
+- 🐛 Reporting bugs and issues
+- 💡 Suggesting new features
+- 🔀 Contributing to development
+
+Your support helps improve the project and future updates.
+
+---
+
+<div align="center">
+
+### UltraEnchantments
+
+Power Beyond Vanilla.
+
+**Developed by KIBA OFFICIAL**
+
+© 2026 KIBA OFFICIAL. All Rights Reserved.
+
+</div>
